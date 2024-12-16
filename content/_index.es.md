@@ -8,7 +8,9 @@ toc = false
 
 ## Sitio de prueba
 
-`Teléfono: 987 654 321`
+{{< callout type="prueba" icon="phone" >}}
+**Teléfono: 987 654 321**
+{{< /callout >}}
 
 Como hemos dicho, esto es una prueba.
 
