@@ -8,7 +8,10 @@ toc = false
 
 ## Sitio de prueba
 
-{{< hextra/hero-button text="987 654 321" link="#" >}}
+{{< callout type="green" >}}
+987 654 321
+{{< /callout >}}
+
 
 Como hemos dicho, esto es una prueba.
 
