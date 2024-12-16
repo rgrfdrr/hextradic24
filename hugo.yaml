@@ -39,9 +39,9 @@ menu:
       name: Documentation
       pageRef: /docs
       weight: 1
-    - identifier: showcase
-      name: Showcase
-      pageRef: /showcase
+    - identifier: pag1
+      name: Pág. 1
+      pageRef: /pag1
       weight: 2
     - identifier: blog
       name: Blog
@@ -55,11 +55,11 @@ menu:
       weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 6
-      url: "https://github.com/imfing/hextra"
-      params:
-        icon: github
+#    - name: GitHub
+#      weight: 6
+#      url: "https://github.com/imfing/hextra"
+#      params:
+#        icon: github
 
   sidebar:
     - identifier: more
