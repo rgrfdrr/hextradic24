@@ -47,18 +47,8 @@ menu:
     #  name: Blog
     #  pageRef: /blog
     #  weight: 3
-    - identifier: menu
-      name: Menú
-      pageRef: /
-      weight: 4
-		- identifier: menu 1
-			name: Menú 1
-			pageRef: /
-			parent: menu
-			weight: 1
-
     - identifier: informacion
-      name: Información
+      name: Info
       pageRef: /informacion
       weight: 4
     - name: Search
