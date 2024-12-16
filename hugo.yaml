@@ -47,14 +47,14 @@ menu:
     #  name: Blog
     #  pageRef: /blog
     #  weight: 3
-    - identifier: informacion
-      name: Info
-      pageRef: /informacion
-      weight: 4
-    - name: Search
-      weight: 5
-      params:
-        type: search
+#    - identifier: informacion
+#      name: Info
+#      pageRef: /informacion
+#      weight: 4
+#    - name: Search
+#      weight: 5
+#      params:
+#        type: search
 #    - name: GitHub
 #      weight: 6
 #      url: "https://github.com/imfing/hextra"
@@ -80,8 +80,8 @@ params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
 
   navbar:
-    displayTitle: true
-    displayLogo: true
+    displayTitle: false
+    displayLogo: false
     logo:
       path: images/logo.svg
       dark: images/logo-dark.svg
@@ -111,7 +111,7 @@ params:
     # Search
   # flexsearch is enabled by default
   search:
-    enable: true
+    enable: false
     type: flexsearch
 
     flexsearch:
