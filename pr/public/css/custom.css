@@ -1,0 +1,9 @@
+:root {
+    --primary-hue: 45deg;
+    --primary-saturation: 100%;
+    --primary-lightness: 49%;
+}
+
+  .content code:not(.code-block code) {
+    color: #c97c2e;
+  }
