@@ -1,17 +1,18 @@
 :root {
-    --primary-hue: 45deg;
-    --primary-saturation: 100%;
-    --primary-lightness: 49%;
+  --primary-hue: 250deg;
+  --primary-saturation: 38%;
+  --primary-lightness: 44%;
 }
 
+
   .content code:not(.code-block code) {
-    color: #c97c2e;
+    color: #624b95
   }
 
 a:hover {
-  color: #faba00;
+  color:#624b95
 }
 
 a:selected {
-  color: #faba00
+  color: #624b95
 }
