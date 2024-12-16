@@ -8,6 +8,8 @@ toc = false
 
 ## Sitio de prueba
 
-Como hemos dicho, esto es una `prueba`
+`Teléfono: 987 654 321`
+
+Como hemos dicho, esto es una prueba.
 
 Y esto es un [enlace](#)
