@@ -8,7 +8,7 @@ toc = false
 
 ## Sitio de prueba
 
-{{< callout type="green" >}}
+{{< callout >}}
 987 654 321
 {{< /callout >}}
 
