@@ -25,5 +25,5 @@ Y esto es un [enlace](#)
     {{< hextra/feature-card
     title="Prueba"
     subtitle="Y esta debería tener color."
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(255,255,153,0.15), hsla(0,0%,100%,0));"
+    style="background:rgba(161,13,42,0.15);"
   >}}
