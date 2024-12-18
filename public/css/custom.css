@@ -5,14 +5,14 @@
 }
 
 
-  .content code:not(.code-block code) {
-    color: #624b95
-  }
+.content code:not(.code-block code) {
+  color: #624b95
+}
 
 a:hover {
-  color:#624b95
+color:#faba00
 }
 
 a:selected {
-  color: #624b95
+color: #624b95
 }

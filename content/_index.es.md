@@ -1,10 +1,18 @@
 +++
-title = 'saulo'
+title = ''
 description = 'Sitio de prueba'
 date = 2024-12-16T10:00:00+01:00
 draft = false
 toc = false
 +++
-[Minimalista](#)
+{{< hextra/hero-headline >}}
+Saulo
+{{< /hextra/hero-headline >}}
 
-católico que reza el [Santo Rosario](/informacion)
+{{< hextra/hero-subtitle >}}
+minimalista, católico
+{{< /hextra/hero-subtitle >}}
+
+<span></br></span>
+
+{{< hextra/hero-button text="Rosario" link="/informacion">}}
