@@ -33,20 +33,20 @@ markup:
 
 enableInlineShortcodes: true
 
-menu:
-  main:
-    # - identifier: documentation
-    # name: Documentation
-    #  pageRef: /docs
-    #  weight: 1
-    #- identifier: pag1
-    #  name: Pág. 1
-    #  pageRef: /pag1
-    # weight: 2
-    #- identifier: blog
-    #  name: Blog
-    #  pageRef: /blog
-    #  weight: 3
+# menu:
+#  main:
+#  - identifier: documentation
+#    name: Documentation
+#    pageRef: /docs
+#    weight: 1
+#  - identifier: pag1
+#    name: Pág. 1
+#    pageRef: /pag1
+#    weight: 2
+#  - identifier: blog
+#    name: Blog
+#    pageRef: /blog
+#     weight: 3
 #    - identifier: informacion
 #      name: Info
 #      pageRef: /informacion
@@ -80,7 +80,7 @@ params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
 
   navbar:
-    displayTitle: false
+    displayTitle: true
     displayLogo: false
     logo:
       path: images/logo.svg

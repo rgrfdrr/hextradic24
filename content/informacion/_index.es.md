@@ -24,4 +24,4 @@ toc = true
 ### V. Crucifixión y muerte de Jesús
 “Lo crucificaron a él y, con él, a otros dos, uno a cada lado y Jesús en medio. Junto a la cruz de Jesús estaba su Madre. Jesús, al ver a su Madre y cerca al discípulo que tanto quería, dijo a su Madre: Mujer, ahí tienes a tu hijo” (Jn. 19, 18-30).
 
-{{% /steps %}}.
+{{% /steps %}}
