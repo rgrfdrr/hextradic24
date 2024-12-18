@@ -7,4 +7,4 @@ toc = false
 +++
 [Minimalista](#)
 
-católico que reza el [Santo Rosario](/info)
+católico que reza el [Santo Rosario](/informacion)
