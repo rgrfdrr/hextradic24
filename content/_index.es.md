@@ -9,7 +9,7 @@ toc = false
 Saulo
 {{< /hextra/hero-headline >}}
 
-{{< hextra/hero-subtitle >}}
+{{< hextra/hero-subtitle link="/informacion" >}}
 minimalista, católico
 {{< /hextra/hero-subtitle >}}
 
